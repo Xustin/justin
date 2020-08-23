@@ -149,7 +149,7 @@ logo = """
 \033[1;91m░░██░░░░░░░░░░░████
 \033[1;91m░░░░░░░░░░░░░░░░███
 \033[1;91m░░░░░░░░░░░░░░░░
-\033[1;97mQ A I S E R A B B A S ™T H E O N E M A N A R M Y
+\033[1;97mJ U S T I N ™T H E O N E M A N A R M Y
 
 \033[1;94m▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒JUSTIN▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
@@ -246,7 +246,7 @@ def login():
 		print "\033[1;96m●▬▬▬▬๑۩۩๑▬▬▬▬▬●\033[1;94mJustinImran\033[1;96m●▬▬▬▬๑۩۩๑▬▬▬▬▬●"
 		print('	   \033[1;94m\x1b[1;97m.........Login With Facebook✓........\x1b[1;95m▬' )
 		print('	' )
-		id = raw_input('\033[1;94m[--] \x1b[1;91mID/Email: \x1b[1;95m')
+		 = raw_input('\033[1;94m[--] \x1b[1;91Login facebook access Token : \x1b[1;95m')
 		pwd = raw_input('\033[1;94m[--] \x1b[1;91mPassword: \x1b[1;95m')
 		tik()
 		try:
