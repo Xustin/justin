@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Tech Qaiser
+#The Credit For This Code Goes To JusTin Imran 
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -369,7 +369,7 @@ def pilih_super():
 	elif peak =="1":
 		os.system('clear')
 		print logo
-		print "\033[1;92m•◈•---------------------•◈•\033[1;96mBlackMafia\033[1;92m•◈•-------------------- •◈•"
+		print "\033[1;92m•◈•---------------------•◈•\033[1;96mSylhetGang\033[1;92m•◈•-------------------- •◈•"
 		jalan('\033[1;93mGetting IDs \033[1;91m...')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
 		z = json.loads(r.text)
