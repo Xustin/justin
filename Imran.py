@@ -215,7 +215,7 @@ jalan("\033[1;94m----------------T00L UPDATE DONE BY JUSTIN-------")
 print "\033[1;95m-----------\033[1;93mJusTin Imran-------------"
 
 CorrectUsername = "justin"
-CorrectPassword = "imran "
+CorrectPassword = "imran"
 
 loop = 'true'
 while (loop == 'true'):
