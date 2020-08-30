@@ -164,6 +164,9 @@ print  """
 \033[1;97m█ █░▀░█ █▀▄ █▀█ █░▀█
 \033[1;97m•───────────────────────────────────────────•
  """
+
+
+
 CorrectUsername = "JUSTIN"
 CorrectPassword = "IMRAN"
 
@@ -181,7 +184,7 @@ while (loop == 'true'):
             os.system('xdg-open https://https://www.youtube.com/channel/UCxc9zuAMRrymJc4sR2rb2fg')
     else:
         print "\033[1;97mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCxc9zuAMRrymJc4sR2rb2fg
+        os.system('xdg-open https://www.youtube.com/channel/UCzTbemCE3YgSBR9STEmH8Cg')
 
 ##### LICENSE #####
 #=================#
